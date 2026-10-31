@@ -1,10 +1,10 @@
 [
-  {"romaji": "neko", "english": "cat"},
-  {"romaji": "inu", "english": "dog"},
-  {"romaji": "mizu", "english": "water"},
-  {"romaji": "konnichiwa", "english": "hello"},
-  {"romaji": "arigato", "english": "thank you"},
-  {"romaji": "sakura", "english": "cherry blossom"},
-  {"romaji": "gohan", "english": "rice"}
+  {"romaji": "neko", "english": "cat", "level": "N5"},
+  {"romaji": "inu", "english": "dog", "level": "N5"},
+  {"romaji": "mizu", "english": "water", "level": "N5"},
+  {"romaji": "konnichiwa", "english": "hello", "level": "N5"},
+  {"romaji": "arigato", "english": "thank you", "level": "N5"},
+  {"romaji": "sakura", "english": "cherry blossom", "level": "N5"},
+  {"romaji": "gohan", "english": "rice", "level": "N5"}
 
 ]
