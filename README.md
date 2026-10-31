@@ -5,15 +5,17 @@ A command-line Japanese vocabulary quiz tool, devised using Pythong.
 ## Status
 
 In early development stages, a short list with a quiz is put together.
+Recently update to function smoother with the new py file
 
 ## Current Features
 
 - Quizzes Japanese words
 - Checks answers regardless of capitalisation
+- Now has functional JSON
 
 ## Planned Features
 
-- Storage of words in JSON
+- Furthering the storage of words in JSON
 - Organise it by JLPT level
 - Shuffling and score tracking
 - Tracking of failed words
